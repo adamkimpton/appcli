@@ -62,7 +62,7 @@ setup(
         "python-dotenv==0.14.0",
         "python-keycloak==0.22.0",
         "pycryptodome==3.10.1",
-        "ruamel-yaml==0.16.10",
+        "ruamel-yaml==0.16.12",
         "tabulate==0.8.7",
         "boto3==1.16.62",
         "cronex==0.1.3.1",
